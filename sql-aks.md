@@ -14,3 +14,7 @@
 
 ## AKS workshop
 - https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
+
+## Appendix
+- https://docs.microsoft.com/en-us/azure/aks/use-pod-security-on-azure-policy?toc=/azure/governance/policy/toc.json&bc=/azure/governance/policy/breadcrumb/toc.json
+- https://devblogs.microsoft.com/visualstudio/bridge-to-kubernetes-ga/
