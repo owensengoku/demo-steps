@@ -18,3 +18,4 @@
 ## Appendix
 - https://docs.microsoft.com/en-us/azure/aks/use-pod-security-on-azure-policy?toc=/azure/governance/policy/toc.json&bc=/azure/governance/policy/breadcrumb/toc.json
 - https://devblogs.microsoft.com/visualstudio/bridge-to-kubernetes-ga/
+- https://docs.microsoft.com/zh-tw/azure/azure-monitor/insights/container-insights-overview
