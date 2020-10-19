@@ -14,6 +14,8 @@
 
 ## AKS workshop
 - https://docs.microsoft.com/en-us/learn/modules/aks-workshop/02-deploy-aks
+- https://docs.microsoft.com/en-us/learn/modules/aks-workshop/03-deploy-container-registry
+- https://docs.microsoft.com/en-us/learn/modules/aks-workshop/09-configure-monitoring
 
 ## Appendix
 - https://docs.microsoft.com/en-us/azure/aks/use-pod-security-on-azure-policy?toc=/azure/governance/policy/toc.json&bc=/azure/governance/policy/breadcrumb/toc.json
