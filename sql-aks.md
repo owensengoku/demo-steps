@@ -13,7 +13,7 @@
 - https://github.com/owensengoku/mssql-on-kubernetes/tree/master/04-always-on
 
 ## AKS workshop
-- https://docs.microsoft.com/en-us/learn/modules/aks-workshop/
+- https://github.com/owensengoku/demo-steps/blob/main/sql-aks.md
 
 ## Appendix
 - https://docs.microsoft.com/en-us/azure/aks/use-pod-security-on-azure-policy?toc=/azure/governance/policy/toc.json&bc=/azure/governance/policy/breadcrumb/toc.json
